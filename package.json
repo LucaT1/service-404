@@ -1,0 +1,14 @@
+{
+  "main": "lib/index.js",
+  "scripts": {
+    "postinstall": "tsc"
+  },
+  "dependencies": {
+    "@types/node": "8.0.53",
+    "@types/react": "16.0.25",
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "styled-components": "2.2.3",
+    "typescript": "2.6.1"
+  }
+}
